@@ -1,4 +1,9 @@
-# Testfm
+# ng6-file-man demo
+
+This project implements usage of ng6-file-man project (https://github.com/AnnotationSro/ng6-file-man)
+
+
+##
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
