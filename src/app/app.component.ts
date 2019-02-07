@@ -8,10 +8,10 @@ import {TreeModel, NodeInterface, ConfigInterface} from 'ng6-file-man';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'testfm';
+  title = 'ng6 file man demo';
   tree: TreeModel;
   node: NodeInterface;
-    appLanguage = 'sk';
+  appLanguage = 'fr';
 
   constructor(){
 // app.component.ts
